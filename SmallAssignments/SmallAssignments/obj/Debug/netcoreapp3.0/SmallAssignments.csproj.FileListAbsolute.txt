@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.exe
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.deps.json
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.runtimeconfig.json
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.dll
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\bin\Debug\netcoreapp3.0\SmallAssignments.pdb
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\obj\Debug\netcoreapp3.0\SmallAssignments.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\obj\Debug\netcoreapp3.0\SmallAssignments.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\obj\Debug\netcoreapp3.0\SmallAssignments.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\obj\Debug\netcoreapp3.0\SmallAssignments.dll
+C:\Users\kjedt\source\repos\SmallAssignments\SmallAssignments\obj\Debug\netcoreapp3.0\SmallAssignments.pdb

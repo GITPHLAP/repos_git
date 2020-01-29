@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.exe
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.deps.json
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.runtimeconfig.json
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.dll
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\bin\Debug\netcoreapp3.1\Valutaomregner.pdb
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\obj\Debug\netcoreapp3.1\Valutaomregner.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\obj\Debug\netcoreapp3.1\Valutaomregner.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\obj\Debug\netcoreapp3.1\Valutaomregner.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\obj\Debug\netcoreapp3.1\Valutaomregner.dll
+C:\Users\kjedt\source\repos\Valutaomregner\Valutaomregner\obj\Debug\netcoreapp3.1\Valutaomregner.pdb

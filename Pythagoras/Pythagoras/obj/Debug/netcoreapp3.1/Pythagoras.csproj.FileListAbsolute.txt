@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.exe
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.deps.json
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.json
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.dll
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.pdb
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.dll
+C:\Users\kjedt\source\repos\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.pdb

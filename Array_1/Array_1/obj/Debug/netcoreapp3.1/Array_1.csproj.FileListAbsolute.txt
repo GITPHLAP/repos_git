@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.exe
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.deps.json
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.runtimeconfig.json
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.dll
+C:\Users\kjedt\source\repos\Array_1\Array_1\bin\Debug\netcoreapp3.1\Array_1.pdb
+C:\Users\kjedt\source\repos\Array_1\Array_1\obj\Debug\netcoreapp3.1\Array_1.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Array_1\Array_1\obj\Debug\netcoreapp3.1\Array_1.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Array_1\Array_1\obj\Debug\netcoreapp3.1\Array_1.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Array_1\Array_1\obj\Debug\netcoreapp3.1\Array_1.dll
+C:\Users\kjedt\source\repos\Array_1\Array_1\obj\Debug\netcoreapp3.1\Array_1.pdb

@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.exe
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.deps.json
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.runtimeconfig.json
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.dll
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\bin\Debug\netcoreapp3.1\Celciusomregner.pdb
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\obj\Debug\netcoreapp3.1\Celciusomregner.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\obj\Debug\netcoreapp3.1\Celciusomregner.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\obj\Debug\netcoreapp3.1\Celciusomregner.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\obj\Debug\netcoreapp3.1\Celciusomregner.dll
+C:\Users\kjedt\source\repos\Celciusomregner\Celciusomregner\obj\Debug\netcoreapp3.1\Celciusomregner.pdb

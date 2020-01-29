@@ -1,0 +1,10 @@
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.exe
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.deps.json
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.runtimeconfig.json
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.dll
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\bin\Debug\netcoreapp3.1\Rumfang.pdb
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\obj\Debug\netcoreapp3.1\Rumfang.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\obj\Debug\netcoreapp3.1\Rumfang.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\obj\Debug\netcoreapp3.1\Rumfang.dll
+C:\Users\kjedt\source\repos\Rumfang\Rumfang\obj\Debug\netcoreapp3.1\Rumfang.pdb

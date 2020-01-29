@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.exe
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.deps.json
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.runtimeconfig.json
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.dll
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\bin\Debug\netcoreapp3.1\Arrays opgave 3.pdb
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\obj\Debug\netcoreapp3.1\Arrays opgave 3.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\obj\Debug\netcoreapp3.1\Arrays opgave 3.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\obj\Debug\netcoreapp3.1\Arrays opgave 3.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\obj\Debug\netcoreapp3.1\Arrays opgave 3.dll
+C:\Users\kjedt\source\repos\Arrays opgave 3\Arrays opgave 3\obj\Debug\netcoreapp3.1\Arrays opgave 3.pdb

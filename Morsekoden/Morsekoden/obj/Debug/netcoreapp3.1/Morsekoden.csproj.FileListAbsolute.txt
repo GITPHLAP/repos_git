@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.exe
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.deps.json
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.runtimeconfig.json
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.dll
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\bin\Debug\netcoreapp3.1\Morsekoden.pdb
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\obj\Debug\netcoreapp3.1\Morsekoden.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\obj\Debug\netcoreapp3.1\Morsekoden.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\obj\Debug\netcoreapp3.1\Morsekoden.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\obj\Debug\netcoreapp3.1\Morsekoden.dll
+C:\Users\kjedt\source\repos\Morsekoden\Morsekoden\obj\Debug\netcoreapp3.1\Morsekoden.pdb

@@ -1,0 +1,7 @@
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\bin\Debug\FileWriterTEST.exe.config
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\bin\Debug\FileWriterTEST.exe
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\bin\Debug\FileWriterTEST.pdb
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\obj\Debug\FileWriterTEST.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\obj\Debug\FileWriterTEST.csproj.CoreCompileInputs.cache
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\obj\Debug\FileWriterTEST.exe
+C:\Users\kjedt\source\repos\FileWriterTEST\FileWriterTEST\obj\Debug\FileWriterTEST.pdb

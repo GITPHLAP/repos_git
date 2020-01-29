@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.exe
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.deps.json
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.runtimeconfig.json
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.dll
+C:\Users\kjedt\source\repos\Løkker\Løkker\bin\Debug\netcoreapp3.1\Løkker.pdb
+C:\Users\kjedt\source\repos\Løkker\Løkker\obj\Debug\netcoreapp3.1\Løkker.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Løkker\Løkker\obj\Debug\netcoreapp3.1\Løkker.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Løkker\Løkker\obj\Debug\netcoreapp3.1\Løkker.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Løkker\Løkker\obj\Debug\netcoreapp3.1\Løkker.dll
+C:\Users\kjedt\source\repos\Løkker\Løkker\obj\Debug\netcoreapp3.1\Løkker.pdb

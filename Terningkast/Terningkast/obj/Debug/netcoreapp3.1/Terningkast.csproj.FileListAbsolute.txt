@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.exe
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.deps.json
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.runtimeconfig.json
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.dll
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\bin\Debug\netcoreapp3.1\Terningkast.pdb
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\obj\Debug\netcoreapp3.1\Terningkast.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\obj\Debug\netcoreapp3.1\Terningkast.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\obj\Debug\netcoreapp3.1\Terningkast.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\obj\Debug\netcoreapp3.1\Terningkast.dll
+C:\Users\kjedt\source\repos\Terningkast\Terningkast\obj\Debug\netcoreapp3.1\Terningkast.pdb

@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.exe
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.deps.json
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.runtimeconfig.json
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.dll
+C:\Users\kjedt\source\repos\Porto\Porto\bin\Debug\netcoreapp3.1\Porto.pdb
+C:\Users\kjedt\source\repos\Porto\Porto\obj\Debug\netcoreapp3.1\Porto.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Porto\Porto\obj\Debug\netcoreapp3.1\Porto.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Porto\Porto\obj\Debug\netcoreapp3.1\Porto.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Porto\Porto\obj\Debug\netcoreapp3.1\Porto.dll
+C:\Users\kjedt\source\repos\Porto\Porto\obj\Debug\netcoreapp3.1\Porto.pdb

@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.exe
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.deps.json
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.runtimeconfig.json
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.dll
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\bin\Debug\netcoreapp3.1\GætEtTal.pdb
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\obj\Debug\netcoreapp3.1\GætEtTal.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\obj\Debug\netcoreapp3.1\GætEtTal.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\obj\Debug\netcoreapp3.1\GætEtTal.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\obj\Debug\netcoreapp3.1\GætEtTal.dll
+C:\Users\kjedt\source\repos\GætEtTal\GætEtTal\obj\Debug\netcoreapp3.1\GætEtTal.pdb
