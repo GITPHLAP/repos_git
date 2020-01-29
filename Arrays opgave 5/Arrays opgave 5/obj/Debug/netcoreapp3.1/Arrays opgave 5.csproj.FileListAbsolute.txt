@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.exe
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.deps.json
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.runtimeconfig.json
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.dll
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\bin\Debug\netcoreapp3.1\Arrays opgave 5.pdb
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\obj\Debug\netcoreapp3.1\Arrays opgave 5.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\obj\Debug\netcoreapp3.1\Arrays opgave 5.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\obj\Debug\netcoreapp3.1\Arrays opgave 5.AssemblyInfo.cs
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\obj\Debug\netcoreapp3.1\Arrays opgave 5.dll
+C:\Users\kjedt\source\repos_git\Arrays opgave 5\Arrays opgave 5\obj\Debug\netcoreapp3.1\Arrays opgave 5.pdb
