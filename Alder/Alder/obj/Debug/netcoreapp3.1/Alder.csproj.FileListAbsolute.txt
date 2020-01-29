@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.exe
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.deps.json
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.runtimeconfig.json
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.dll
+C:\Users\kjedt\source\repos\Alder\Alder\bin\Debug\netcoreapp3.1\Alder.pdb
+C:\Users\kjedt\source\repos\Alder\Alder\obj\Debug\netcoreapp3.1\Alder.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\Alder\Alder\obj\Debug\netcoreapp3.1\Alder.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos\Alder\Alder\obj\Debug\netcoreapp3.1\Alder.AssemblyInfo.cs
+C:\Users\kjedt\source\repos\Alder\Alder\obj\Debug\netcoreapp3.1\Alder.dll
+C:\Users\kjedt\source\repos\Alder\Alder\obj\Debug\netcoreapp3.1\Alder.pdb
