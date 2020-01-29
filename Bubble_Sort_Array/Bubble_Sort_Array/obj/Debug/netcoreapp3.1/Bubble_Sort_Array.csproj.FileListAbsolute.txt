@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.exe
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.deps.json
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.runtimeconfig.json
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.dll
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\bin\Debug\netcoreapp3.1\Bubble_Sort_Array.pdb
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\obj\Debug\netcoreapp3.1\Bubble_Sort_Array.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\obj\Debug\netcoreapp3.1\Bubble_Sort_Array.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\obj\Debug\netcoreapp3.1\Bubble_Sort_Array.AssemblyInfo.cs
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\obj\Debug\netcoreapp3.1\Bubble_Sort_Array.dll
+C:\Users\kjedt\source\repos_git\Bubble_Sort_Array\Bubble_Sort_Array\obj\Debug\netcoreapp3.1\Bubble_Sort_Array.pdb
