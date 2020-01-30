@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.exe
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.deps.json
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.runtimeconfig.json
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.dll
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\bin\Debug\netcoreapp3.1\Metoder_Lommeregner.pdb
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\obj\Debug\netcoreapp3.1\Metoder_Lommeregner.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\obj\Debug\netcoreapp3.1\Metoder_Lommeregner.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\obj\Debug\netcoreapp3.1\Metoder_Lommeregner.AssemblyInfo.cs
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\obj\Debug\netcoreapp3.1\Metoder_Lommeregner.dll
+C:\Users\kjedt\source\repos_git\Metoder_Lommeregner\Metoder_Lommeregner\obj\Debug\netcoreapp3.1\Metoder_Lommeregner.pdb
