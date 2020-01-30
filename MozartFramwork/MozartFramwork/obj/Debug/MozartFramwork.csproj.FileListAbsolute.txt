@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\bin\Debug\MozartFramwork.exe.config
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\bin\Debug\MozartFramwork.exe
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\bin\Debug\MozartFramwork.pdb
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\obj\Debug\MozartFramwork.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\obj\Debug\MozartFramwork.exe
+C:\Users\kjedt\source\repos\MozartFramwork\MozartFramwork\obj\Debug\MozartFramwork.pdb

@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.exe
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.deps.json
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.json
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.pdb
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfo.cs
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\kjedt\source\repos_git\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.pdb
