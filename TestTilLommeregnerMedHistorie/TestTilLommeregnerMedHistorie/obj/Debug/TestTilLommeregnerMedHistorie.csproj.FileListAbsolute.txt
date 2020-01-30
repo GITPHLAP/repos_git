@@ -1,6 +1,0 @@
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\obj\Debug\TestTilLommeregnerMedHistorie.csprojAssemblyReference.cache
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\bin\Debug\TestTilLommeregnerMedHistorie.exe.config
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\bin\Debug\TestTilLommeregnerMedHistorie.exe
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\bin\Debug\TestTilLommeregnerMedHistorie.pdb
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\obj\Debug\TestTilLommeregnerMedHistorie.exe
-C:\Users\kjedt\source\repos\TestTilLommeregnerMedHistorie\TestTilLommeregnerMedHistorie\obj\Debug\TestTilLommeregnerMedHistorie.pdb

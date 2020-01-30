@@ -1,6 +1,0 @@
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\bin\Debug\NetworkSpeed.exe.config
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\bin\Debug\NetworkSpeed.exe
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\bin\Debug\NetworkSpeed.pdb
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\obj\Debug\NetworkSpeed.csprojAssemblyReference.cache
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\obj\Debug\NetworkSpeed.exe
-C:\Users\kjedt\source\repos\NetworkSpeed\NetworkSpeed\obj\Debug\NetworkSpeed.pdb

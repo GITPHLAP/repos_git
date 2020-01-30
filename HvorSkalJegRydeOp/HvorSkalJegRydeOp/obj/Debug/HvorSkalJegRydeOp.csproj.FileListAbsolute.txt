@@ -1,7 +1,0 @@
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\bin\Debug\HvorSkalJegRydeOp.exe.config
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\bin\Debug\HvorSkalJegRydeOp.exe
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\bin\Debug\HvorSkalJegRydeOp.pdb
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\obj\Debug\HvorSkalJegRydeOp.csprojAssemblyReference.cache
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\obj\Debug\HvorSkalJegRydeOp.csproj.CoreCompileInputs.cache
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\obj\Debug\HvorSkalJegRydeOp.exe
-C:\Users\kjedt\source\repos\HvorSkalJegRydeOp\HvorSkalJegRydeOp\obj\Debug\HvorSkalJegRydeOp.pdb
