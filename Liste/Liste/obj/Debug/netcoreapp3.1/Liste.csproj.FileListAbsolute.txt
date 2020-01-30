@@ -1,0 +1,11 @@
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.exe
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.deps.json
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.json
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.dev.json
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.dll
+C:\Users\kjedt\source\repos_git\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.pdb
+C:\Users\kjedt\source\repos_git\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfoInputs.cache
+C:\Users\kjedt\source\repos_git\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfo.cs
+C:\Users\kjedt\source\repos_git\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.dll
+C:\Users\kjedt\source\repos_git\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.pdb
