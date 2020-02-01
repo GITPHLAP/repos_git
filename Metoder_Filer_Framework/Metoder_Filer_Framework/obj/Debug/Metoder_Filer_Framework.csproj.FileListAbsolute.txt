@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\bin\Debug\Metoder_Filer_Framework.exe.config
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\bin\Debug\Metoder_Filer_Framework.exe
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\bin\Debug\Metoder_Filer_Framework.pdb
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\obj\Debug\Metoder_Filer_Framework.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\obj\Debug\Metoder_Filer_Framework.exe
+C:\Users\kjedt\source\repos_git\Metoder_Filer_Framework\Metoder_Filer_Framework\obj\Debug\Metoder_Filer_Framework.pdb

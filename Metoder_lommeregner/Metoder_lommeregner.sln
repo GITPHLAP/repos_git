@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder_lommeregner", "Metoder_lommeregner\Metoder_lommeregner.csproj", "{033EA976-7CA7-4A0C-A15F-89EF8F9AF090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033EA976-7CA7-4A0C-A15F-89EF8F9AF090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033EA976-7CA7-4A0C-A15F-89EF8F9AF090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033EA976-7CA7-4A0C-A15F-89EF8F9AF090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033EA976-7CA7-4A0C-A15F-89EF8F9AF090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE605A3-816A-413D-A60E-3CC5341FF034}
+	EndGlobalSection
+EndGlobal
