@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\bin\Debug\Vaskemaskine.exe.config
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\bin\Debug\Vaskemaskine.exe
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\bin\Debug\Vaskemaskine.pdb
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\obj\Debug\Vaskemaskine.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\obj\Debug\Vaskemaskine.exe
+C:\Users\kjedt\source\repos_git\Vaskemaskine\Vaskemaskine\obj\Debug\Vaskemaskine.pdb
