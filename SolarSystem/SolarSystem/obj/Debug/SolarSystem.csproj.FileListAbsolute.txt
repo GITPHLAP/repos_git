@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\kjedt\source\repos_git\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
