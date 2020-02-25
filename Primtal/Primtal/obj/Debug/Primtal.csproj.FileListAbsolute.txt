@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\bin\Debug\Primtal.exe.config
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\bin\Debug\Primtal.exe
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\bin\Debug\Primtal.pdb
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\obj\Debug\Primtal.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\obj\Debug\Primtal.exe
+C:\Users\kjedt\source\repos_git\Primtal\Primtal\obj\Debug\Primtal.pdb
