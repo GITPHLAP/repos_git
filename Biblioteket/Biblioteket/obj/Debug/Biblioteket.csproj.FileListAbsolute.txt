@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\bin\Debug\Biblioteket.exe.config
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\bin\Debug\Biblioteket.exe
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\bin\Debug\Biblioteket.pdb
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\obj\Debug\Biblioteket.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\obj\Debug\Biblioteket.exe
+C:\Users\kjedt\source\repos_git\Biblioteket\Biblioteket\obj\Debug\Biblioteket.pdb
