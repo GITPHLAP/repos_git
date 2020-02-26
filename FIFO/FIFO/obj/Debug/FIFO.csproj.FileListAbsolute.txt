@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\obj\Debug\FIFO.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\bin\Debug\FIFO.exe.config
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\bin\Debug\FIFO.exe
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\bin\Debug\FIFO.pdb
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\obj\Debug\FIFO.exe
+C:\Users\kjedt\source\repos_git\FIFO\FIFO\obj\Debug\FIFO.pdb
