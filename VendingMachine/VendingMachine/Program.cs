@@ -78,7 +78,7 @@ namespace VendingMachine
                             {
                                 return;
                             }
-                            CheckCoin(exitbuyingandcheckcoin);//tjekker om det er en godkendt mønt
+                            CheckCoin(int.Parse(exitbuyingandcheckcoin));//tjekker om det er en godkendt mønt
                             int insertedmoney = int.Parse(exitbuyingandcheckcoin);//konverter mønten om til noget der kan regnes med
                             while (insertedmoney != price)//hvis insættede penge ikke matcher med prisen gør den følgende
                             {
@@ -93,7 +93,7 @@ namespace VendingMachine
                                         Console.ReadLine();
                                         return;
                                     }
-                                    CheckCoin(exitbuyingandcheckcoin);//tjekker om det er en gyldig mønt
+                                    CheckCoin(int.Parse(exitbuyingandcheckcoin));//tjekker om det er en gyldig mønt
                                     insertedmoney += int.Parse(exitbuyingandcheckcoin);//ellers tilføjer den det nye indkastede kønter til det gamle og tjekker igen
                                 }
                                 else if (insertedmoney > price)//hvis indsættede mønter er større sker følgende
@@ -133,13 +133,48 @@ namespace VendingMachine
             }
         }
 
-        private static void CheckCoin(string money)//metode til at tjekke om input er en mynt
+        private static void CheckCoin(int money)//metode til at tjekke om input er en mynt
         {
-            if (money != "1" || money != "2" || money != "5" || money != "10" || money != "20")//hvis den ikke er nogen kendt mønt sker der dette
+            if (money != 1)//hvis den ikke er nogen kendt mønt sker der dette
             {
                 Console.WriteLine("Dit input er ikke en mønt");
+                Console.WriteLine("Programmet bliver lukket");
+
+                Console.ReadLine();
                 Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
                 
+            }
+            else if (money != 2)
+            {
+                Console.WriteLine("Dit input er ikke en mønt");
+                Console.WriteLine("Programmet bliver lukket");
+
+                Console.ReadLine();
+                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+            }
+            else if (money != 5)
+            {
+                Console.WriteLine("Dit input er ikke en mønt");
+                Console.WriteLine("Programmet bliver lukket");
+
+                Console.ReadLine();
+                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+            }
+            else if ( money != 10)
+            {
+                Console.WriteLine("Dit input er ikke en mønt");
+                Console.WriteLine("Programmet bliver lukket");
+
+                Console.ReadLine();
+                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+            }
+            else if ( money == 20)
+            {
+                Console.WriteLine("Dit input er ikke en mønt");
+                Console.WriteLine("Programmet bliver lukket");
+
+                Console.ReadLine();
+                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
             }
 
         }
