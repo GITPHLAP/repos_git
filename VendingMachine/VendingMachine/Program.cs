@@ -135,40 +135,27 @@ namespace VendingMachine
 
         private static void CheckCoin(int money)//metode til at tjekke om input er en mynt
         {
-            if (money != 1)//hvis den ikke er nogen kendt mønt sker der dette
+            if (money == 1)//hvis den ikke er nogen kendt mønt sker der dette
             {
-                Console.WriteLine("Dit input er ikke en mønt");
-                Console.WriteLine("Programmet bliver lukket");
-
-                Console.ReadLine();
-                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
                 
             }
-            else if (money != 2)
+            else if (money == 2)
             {
-                Console.WriteLine("Dit input er ikke en mønt");
-                Console.WriteLine("Programmet bliver lukket");
-
-                Console.ReadLine();
-                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+               
             }
             else if (money != 5)
             {
-                Console.WriteLine("Dit input er ikke en mønt");
-                Console.WriteLine("Programmet bliver lukket");
-
-                Console.ReadLine();
-                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+                
             }
             else if ( money != 10)
             {
-                Console.WriteLine("Dit input er ikke en mønt");
-                Console.WriteLine("Programmet bliver lukket");
-
-                Console.ReadLine();
-                Environment.Exit(1); //lukker programmet hvis der bliver smidt forkert valuta i
+                
             }
             else if ( money == 20)
+            {
+                
+            }
+            else
             {
                 Console.WriteLine("Dit input er ikke en mønt");
                 Console.WriteLine("Programmet bliver lukket");
