@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\bin\Debug\Fight Arena.exe.config
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\bin\Debug\Fight Arena.exe
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\bin\Debug\Fight Arena.pdb
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\obj\Debug\Fight Arena.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\obj\Debug\Fight Arena.exe
+C:\Users\kjedt\source\repos_git\Fight Arena\Fight Arena\obj\Debug\Fight Arena.pdb

@@ -1,0 +1,14 @@
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\bin\iPhoneSimulator\Debug\IOSAPP_TEST.exe
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\bin\iPhoneSimulator\Debug\IOSAPP_TEST.pdb
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\IOSAPP_TEST.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\IOSAPP_TEST.csproj.CopyComplete
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\IOSAPP_TEST.exe
+C:\Users\kjedt\source\repos_git\IOSAPP_TEST\IOSAPP_TEST\obj\iPhoneSimulator\Debug\IOSAPP_TEST.pdb
