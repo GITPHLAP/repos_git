@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\bin\Debug\GeometriSquars.exe.config
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\bin\Debug\GeometriSquars.exe
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\bin\Debug\GeometriSquars.pdb
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\obj\Debug\GeometriSquars.csprojAssemblyReference.cache
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\obj\Debug\GeometriSquars.exe
+C:\Users\kjedt\source\repos_git\GeometriSquars\GeometriSquars\obj\Debug\GeometriSquars.pdb
