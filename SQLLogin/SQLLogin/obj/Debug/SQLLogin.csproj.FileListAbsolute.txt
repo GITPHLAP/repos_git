@@ -1,0 +1,6 @@
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\bin\Debug\SQLLogin.exe.config
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\bin\Debug\SQLLogin.exe
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\bin\Debug\SQLLogin.pdb
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\obj\Debug\SQLLogin.exe
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\obj\Debug\SQLLogin.pdb
+C:\Users\kjedt\source\repos\SQLLogin\SQLLogin\obj\Debug\SQLLogin.csprojAssemblyReference.cache
